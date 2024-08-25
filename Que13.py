@@ -1,0 +1,5 @@
+print("123".isalpha())
+print("aaa123a".isalpha())
+print("aa34".isalnum())
+print("123".isalnum())
+print("zz".isalpha())
